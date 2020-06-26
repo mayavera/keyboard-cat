@@ -15,7 +15,7 @@
     "keys"
   ],
   "author": "Maya Vera <maya@mayavera.me> (https://mayavera.me/)",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "devDependencies": {
     "typescript": "^3.9.5"
   }
