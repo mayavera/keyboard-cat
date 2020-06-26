@@ -1,0 +1,22 @@
+{
+  "name": "keyboard-cat",
+  "version": "0.1.0",
+  "description": "an enum of keyboard keys",
+  "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mayavera/keyboard-cat.git"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "keyboard",
+    "keys"
+  ],
+  "author": "Maya Vera <maya@mayavera.me> (https://mayavera.me/)",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "typescript": "^3.9.5"
+  }
+}
