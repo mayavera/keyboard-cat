@@ -2,7 +2,8 @@
   "name": "keyboard-cat",
   "version": "0.1.1",
   "description": "an enum of keyboard keys",
-  "main": "index.ts",
+  "main": "dist/index.js",
+	"types": "dist/index.d.ts",
   "repository": {
     "type": "git",
     "url": "git@github.com:mayavera/keyboard-cat.git"
